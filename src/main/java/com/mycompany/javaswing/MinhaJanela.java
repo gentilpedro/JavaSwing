@@ -26,6 +26,7 @@ public class MinhaJanela extends javax.swing.JFrame {
 
     }
 
+
     private void agruparBotoes() {
         ButtonGroup grupoOperacoes = new ButtonGroup();
         grupoOperacoes.add(rdSoma);
