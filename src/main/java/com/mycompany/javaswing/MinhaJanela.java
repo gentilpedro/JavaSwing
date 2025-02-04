@@ -23,7 +23,6 @@ public class MinhaJanela extends javax.swing.JFrame {
         initComponents();
         agruparBotoes();
         adicionarEventos();
-
     }
 
 
